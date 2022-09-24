@@ -1,9 +1,9 @@
 # contributions-with-community
 Contributions with community: blogs, videos, talks, podcasts, coordinating events, etc 
 ## 2018
-### Organização e Mentoria do Django Girls Bento Gonçalves [Fotos](https://www.flickr.com/photos/djangogirls/sets/72157694821163112?fbclid=IwAR24uzmx7KlCKITbpJDQMGSFi_A4LkrdW8uFSKh5wYQNK0e7-FimAEcjIyg)
-### Organização do Meetup GDG Serra Gaúcha [Fotos](#)
-### Organização do 1º Startup Weekend Bento Gonçalves [Fotos](#)
+### Organização, Social Media e Mentoria do Django Girls Bento Gonçalves [Fotos](https://www.flickr.com/photos/djangogirls/sets/72157694821163112?fbclid=IwAR24uzmx7KlCKITbpJDQMGSFi_A4LkrdW8uFSKh5wYQNK0e7-FimAEcjIyg)
+### Organização do Meetup GDG Serra Gaúcha [Fotos](https://scontent-gru2-1.xx.fbcdn.net/v/t1.6435-9/35265099_2096111607069610_260778534333579264_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=y6_EQQRccz4AX8IVlKf&_nc_ht=scontent-gru2-1.xx&oh=00_AT8zTUjeHGqgb2iMFPSCseFwlTwiNRJokbVmb1fp-NprBw&oe=635373D3)
+### Organização do 1º Startup Weekend Bento Gonçalves [Fotos](https://scontent-gru2-1.xx.fbcdn.net/v/t1.6435-9/50237716_332539007352830_2221921577337880576_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=8mn5Kd8b304AX_SoYwW&tn=2cB53yOnHT2SaFrJ&_nc_ht=scontent-gru2-1.xx&oh=00_AT_JtbTzf2MKfyfcZ9IfFALnSNVmB7EYxnhhfrHbm6FL7w&oe=6355EBD1)
 
 ## 2019
 
