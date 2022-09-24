@@ -24,7 +24,7 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 
 ### MEENTORIA 1ª Turma
 
-## 2021]
+## 2021
 
 ### MEENTORIA 2ª Turma
 ### Organização da 1ª Gambiconf Online
