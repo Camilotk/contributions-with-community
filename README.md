@@ -10,9 +10,22 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 ### Organização Mind7 Startups
 
 ## 2020
-### Organização e Apresentação XI Semana Acadêmixa IFRS
 
-## 2021
+### MEETECH #1 - Wordpress + React na Prática (Eduardo Pittol) // PHPStorm como Ambiente de Desenvolvimento (Fernando)
+### MEETECH #2 - Linguagem Flutter (Wilson Blanco) // Matando as Hydras da Programação (Perceu Bertolletti)
+### MEETECH #3 - Introdução a Web e como Iniciar na Carreira DEV (F.code)
+### MEETECH #4 - Linguagem Rust // Metodologias Ágeis
+### MEETECH #5 - Docker
+### MEETECH #6 - Laravel
+### Organização e Apresentação XI Semana Acadêmixa IFRS
+### Organização, Comunidade e Apresentação do FOSSDay RS 2020
+
+### MEENTORIA 1ª Turma
+
+## 2021]
+
+### MEENTORIA 2ª Turma
+### Organização da 1ª Gambiconf Online
 
 ## 2022
 
@@ -22,3 +35,5 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 - Os 7 hábitos de pessoas altamente in-hackeáveis - Alberto Azevedo [Vídeo](https://www.youtube.com/watch?v=9NLNAwdncHc&t=13s)
 - Fora do Metaverso Aplicações da Blockchain na vida real - Igor Lourenço [Vídeo](https://www.youtube.com/watch?v=4JhE6SaCOAc)
 - Porque o Java é lento? - Eduardo Rafael [Vídeo](https://www.youtube.com/watch?v=vSZcSf75DCc)
+
+### Organização da 2ª Gambiconf Lisboa + Online
