@@ -1,11 +1,12 @@
 # contributions-with-community
 Contributions with community: blogs, videos, talks, podcasts, coordinating events, etc 
 ## 2018
-### Organização do Django Girls Bento Gonçalves [Fotos](#)
+### Organização e Mentoria do Django Girls Bento Gonçalves [Fotos](https://www.flickr.com/photos/djangogirls/sets/72157694821163112?fbclid=IwAR24uzmx7KlCKITbpJDQMGSFi_A4LkrdW8uFSKh5wYQNK0e7-FimAEcjIyg)
 ### Organização do Meetup GDG Serra Gaúcha [Fotos](#)
-### Organização do Startup Weekend Bento Gonçalves [Fotos](#)
+### Organização do 1º Startup Weekend Bento Gonçalves [Fotos](#)
 
 ## 2019
+
 ## 2020
 ## 2021
 ## 2022
