@@ -7,8 +7,13 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 
 ## 2019
 
+### Organização Mind7 Startups
+
 ## 2020
+### Organização e Apresentação XI Semana Acadêmixa IFRS
+
 ## 2021
+
 ## 2022
 
 ### Organização e Apresentação da XII Semana Acadêmica IFRS
