@@ -14,26 +14,28 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 ## 2020
 
 ### MEETECH #1 - Wordpress + React na Prática (Eduardo Pittol) // PHPStorm como Ambiente de Desenvolvimento (Fernando) [Sympla](https://www.sympla.com.br/meetech-01---encontros-de-tecnologia__760795) - [Foto](https://media-exp1.licdn.com/dms/image/C4E1BAQG0xGu2fkK4_Q/company-background_10000/0/1597269641865?e=1664658000&v=beta&t=Tipn89szAwmu1O6okwEPFZH38noSwSI42Ac50oBXa1U)
-### MEETECH #2 - Linguagem Flutter (Wilson Blanco) // Matando as Hydras da Programação (Perceu Bertolletti) [Sympla]
-### MEETECH #3 - Introdução a Web e como Iniciar na Carreira DEV (F.code) [Sympla]
-### MEETECH #4 - Linguagem Rust () // Metodologias Ágeis [Sympla]
-### MEETECH #5 - Docker [Sympla]
-### MEETECH #6 - Laravel [Sympla]
-### MEETECH - Carreira de Desenvolvedor no Exterior [Vídeo](https://www.youtube.com/watch?v=Ha_R42tMuZI)
-### MEETECH - Comunidades de Tecnologia [Vídeo](https://www.youtube.com/watch?v=Q5yszu8eHJA&t=13s)
-### MEETECH - Desenvolvedor precisa saber Inglês? [Vídeo](https://www.youtube.com/watch?v=NLCFkbMGRSo&t=200s)
-### MEETECH - Comunidades de Tecnologia #2 [Vídeo](https://www.youtube.com/watch?v=RjrehYnrTDc&t=132s)
-### MEETECH - Serverless: O que é? [Vídeo](https://www.youtube.com/watch?v=bHfnbvYKF_w&t=11s)
-### MEETECH - Lumen na Prática [Vídeo](https://www.youtube.com/watch?v=DNyN65osvoA&t=222s)
-### MEETECH - HTML é uma linguagem de programação [Vídeo](https://www.youtube.com/watch?v=tI7Q2lLScEM&t=546s)
-### MEETECH - Laravel, uma introdução prática! [Vídeo](https://www.youtube.com/watch?v=X6kDEsNh7Qg)
-### MEETECH - Blockchain e Contratos Inteligentes [Vídeo](https://www.youtube.com/watch?v=IPRylLBFATw)
-### MEETECH - ReasonML e ReScript: O ECMAScript de 2077! [Vídeo](https://www.youtube.com/watch?v=Hoed0aZGbJY)
-### MEETECH - Libsodium: Criptografia moderna no PHP [Sympla](https://www.youtube.com/watch?v=Vd2lQNOzBr4)
-### MEETECH - PHP com Docker: Criando um ambiente de desenvolvimento [Vídeo](https://www.youtube.com/watch?v=1cXIGVymlKA)
-### MEETECH - Como ingressar na Carreira Java [Vídeo](https://www.youtube.com/watch?v=qLrVahPJ-A8)
-### MEETECH - Iniciando com Vue e Nuxt [Vídeo](https://www.youtube.com/watch?v=TBdsX9nltik)
-### MEETECH - Docker na AWS com ECS [Vídeo](https://www.youtube.com/watch?v=GpxoHxqvelA&t=8s)
+### MEETECH
+- Linguagem Flutter (Wilson Blanco) // Matando as Hydras da Programação (Perceu Bertolletti) [Sympla]
+- Introdução a Web e como Iniciar na Carreira DEV (F.code) [Sympla]
+- Linguagem Rust (Júlio Biason) // Metodologias Ágeis (Urgeo) [Sympla]
+- Docker [Sympla]
+- Laravel [Sympla]
+- Carreira de Desenvolvedor no Exterior [Vídeo](https://www.youtube.com/watch?v=Ha_R42tMuZI)
+- Comunidades de Tecnologia [Vídeo](https://www.youtube.com/watch?v=Q5yszu8eHJA&t=13s)
+- Desenvolvedor precisa saber Inglês? [Vídeo](https://www.youtube.com/watch?v=NLCFkbMGRSo&t=200s)
+- Comunidades de Tecnologia #2 [Vídeo](https://www.youtube.com/watch?v=RjrehYnrTDc&t=132s)
+- Serverless: O que é? [Vídeo](https://www.youtube.com/watch?v=bHfnbvYKF_w&t=11s)
+- Lumen na Prática [Vídeo](https://www.youtube.com/watch?v=DNyN65osvoA&t=222s)
+- HTML é uma linguagem de programação [Vídeo](https://www.youtube.com/watch?v=tI7Q2lLScEM&t=546s)
+- Laravel, uma introdução prática! [Vídeo](https://www.youtube.com/watch?v=X6kDEsNh7Qg)
+- Blockchain e Contratos Inteligentes [Vídeo](https://www.youtube.com/watch?v=IPRylLBFATw)
+- ReasonML e ReScript: O ECMAScript de 2077! [Vídeo](https://www.youtube.com/watch?v=Hoed0aZGbJY)
+- Libsodium: Criptografia moderna no PHP [Sympla](https://www.youtube.com/watch?v=Vd2lQNOzBr4)
+- PHP com Docker: Criando um ambiente de desenvolvimento [Vídeo](https://www.youtube.com/watch?v=1cXIGVymlKA)
+- Como ingressar na Carreira Java [Vídeo](https://www.youtube.com/watch?v=qLrVahPJ-A8)
+- Iniciando com Vue e Nuxt [Vídeo](https://www.youtube.com/watch?v=TBdsX9nltik)
+- Docker na AWS com ECS [Vídeo](https://www.youtube.com/watch?v=GpxoHxqvelA&t=8s)
+
 ### Organização e Apresentação XI Semana Acadêmixa IFRS
 ### Organização, Comunidade e Apresentação do FOSSDay RS 2020
 
