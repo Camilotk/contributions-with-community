@@ -15,11 +15,11 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 
 ### MEETECH
 - Wordpress + React na Prática (Eduardo Pittol) // PHPStorm como Ambiente de Desenvolvimento (Fernando) [Sympla](https://www.sympla.com.br/meetech-01---encontros-de-tecnologia__760795) - [Foto](https://media-exp1.licdn.com/dms/image/C4E1BAQG0xGu2fkK4_Q/company-background_10000/0/1597269641865?e=1664658000&v=beta&t=Tipn89szAwmu1O6okwEPFZH38noSwSI42Ac50oBXa1U)
-- Linguagem Flutter (Wilson Blanco) // Matando as Hydras da Programação (Perceu Bertolletti) [Sympla]
-- Introdução a Web e como Iniciar na Carreira DEV (F.code) [Sympla]
-- Linguagem Rust (Júlio Biason) // Metodologias Ágeis (Urgeo) [Sympla]
-- Docker [Sympla]
-- Laravel [Sympla]
+- Linguagem Flutter (Wilson Blanco) // Matando as Hydras da Programação (Perceu Bertolletti) [Sympla](https://www.sympla.com.br/meetech-02---encontros-de-tecnologia__773152)
+- Introdução a Web e como Iniciar na Carreira DEV (F.code) [Sympla](https://www.sympla.com.br/meetech-03---encontros-de-tecnologia__802119)
+- Linguagem Rust (Júlio Biason) // Metodologias Ágeis (Urgeo) [Sympla](https://www.sympla.com.br/meetech-04---encontros-de-tecnologia__805861)
+- Docker 
+- Laravel 
 - Carreira de Desenvolvedor no Exterior [Vídeo](https://www.youtube.com/watch?v=Ha_R42tMuZI)
 - Comunidades de Tecnologia [Vídeo](https://www.youtube.com/watch?v=Q5yszu8eHJA&t=13s)
 - Desenvolvedor precisa saber Inglês? [Vídeo](https://www.youtube.com/watch?v=NLCFkbMGRSo&t=200s)
