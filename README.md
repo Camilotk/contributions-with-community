@@ -19,22 +19,21 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 ### MEETECH #4 - Linguagem Rust () // Metodologias Ágeis [Sympla]
 ### MEETECH #5 - Docker [Sympla]
 ### MEETECH #6 - Laravel [Sympla]
-### MEETECH #7 - Laravel [Sympla]
-### MEETECH #8 - Laravel [Sympla]
-### MEETECH #9 - Laravel [Sympla]
-### MEETECH #10 - Laravel [Sympla]
-### MEETECH #11 - Laravel [Sympla]
-### MEETECH #12 - Laravel [Sympla]
-### MEETECH #13 - Laravel [Sympla]
-### MEETECH #14 - Laravel [Sympla]
-### MEETECH #15 - Laravel [Sympla]
-### MEETECH #16 - Laravel [Sympla]
-### MEETECH #17 - Laravel [Sympla]
-### MEETECH #18 - Laravel [Sympla]
-### MEETECH #19 - Laravel [Sympla]
-### MEETECH #20 - Como ingressar na Carreira Java [Sympla](https://www.sympla.com.br/meetech-19---perspectivas-de-carreira-java__1012450) - [Vídeo](https://www.youtube.com/watch?v=qLrVahPJ-A8)
-### MEETECH #20 - Iniciando com Vue e Nuxt [Vídeo](https://www.youtube.com/watch?v=TBdsX9nltik)
-### MEETECH #20 - Docker na AWS com ECS [Sympla](https://www.sympla.com.br/meetech-21---docker-na-aws-com-ecs__1061315) - [Vídeo](https://www.youtube.com/watch?v=GpxoHxqvelA&t=8s)
+### MEETECH - Carreira de Desenvolvedor no Exterior [Vídeo](https://www.youtube.com/watch?v=Ha_R42tMuZI)
+### MEETECH - Comunidades de Tecnologia [Vídeo](https://www.youtube.com/watch?v=Q5yszu8eHJA&t=13s)
+### MEETECH - Desenvolvedor precisa saber Inglês? [Vídeo](https://www.youtube.com/watch?v=NLCFkbMGRSo&t=200s)
+### MEETECH - Comunidades de Tecnologia #2 [Vídeo](https://www.youtube.com/watch?v=RjrehYnrTDc&t=132s)
+### MEETECH - Serverless: O que é? [Vídeo](https://www.youtube.com/watch?v=bHfnbvYKF_w&t=11s)
+### MEETECH - Lumen na Prática [Vídeo](https://www.youtube.com/watch?v=DNyN65osvoA&t=222s)
+### MEETECH - HTML é uma linguagem de programação [Vídeo](https://www.youtube.com/watch?v=tI7Q2lLScEM&t=546s)
+### MEETECH - Laravel, uma introdução prática! [Vídeo](https://www.youtube.com/watch?v=X6kDEsNh7Qg)
+### MEETECH - Blockchain e Contratos Inteligentes [Vídeo](https://www.youtube.com/watch?v=IPRylLBFATw)
+### MEETECH - ReasonML e ReScript: O ECMAScript de 2077! [Vídeo](https://www.youtube.com/watch?v=Hoed0aZGbJY)
+### MEETECH - Libsodium: Criptografia moderna no PHP [Sympla](https://www.youtube.com/watch?v=Vd2lQNOzBr4)
+### MEETECH - PHP com Docker: Criando um ambiente de desenvolvimento [Vídeo](https://www.youtube.com/watch?v=1cXIGVymlKA)
+### MEETECH - Como ingressar na Carreira Java [Vídeo](https://www.youtube.com/watch?v=qLrVahPJ-A8)
+### MEETECH - Iniciando com Vue e Nuxt [Vídeo](https://www.youtube.com/watch?v=TBdsX9nltik)
+### MEETECH - Docker na AWS com ECS [Vídeo](https://www.youtube.com/watch?v=GpxoHxqvelA&t=8s)
 ### Organização e Apresentação XI Semana Acadêmixa IFRS
 ### Organização, Comunidade e Apresentação do FOSSDay RS 2020
 
