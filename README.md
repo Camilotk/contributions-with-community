@@ -8,13 +8,15 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 ## 2019
 
 ### Organização Mind7 Startups
+### LogiTech Day IFRS - Informática + Logística
+### MEETUP sobre React -
 
 ## 2020
 
 ### MEETECH #1 - Wordpress + React na Prática (Eduardo Pittol) // PHPStorm como Ambiente de Desenvolvimento (Fernando)
 ### MEETECH #2 - Linguagem Flutter (Wilson Blanco) // Matando as Hydras da Programação (Perceu Bertolletti)
 ### MEETECH #3 - Introdução a Web e como Iniciar na Carreira DEV (F.code)
-### MEETECH #4 - Linguagem Rust // Metodologias Ágeis
+### MEETECH #4 - Linguagem Rust () // Metodologias Ágeis
 ### MEETECH #5 - Docker
 ### MEETECH #6 - Laravel
 ### Organização e Apresentação XI Semana Acadêmixa IFRS
