@@ -19,6 +19,22 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 ### MEETECH #4 - Linguagem Rust () // Metodologias Ágeis [Sympla]
 ### MEETECH #5 - Docker [Sympla]
 ### MEETECH #6 - Laravel [Sympla]
+### MEETECH #7 - Laravel [Sympla]
+### MEETECH #8 - Laravel [Sympla]
+### MEETECH #9 - Laravel [Sympla]
+### MEETECH #10 - Laravel [Sympla]
+### MEETECH #11 - Laravel [Sympla]
+### MEETECH #12 - Laravel [Sympla]
+### MEETECH #13 - Laravel [Sympla]
+### MEETECH #14 - Laravel [Sympla]
+### MEETECH #15 - Laravel [Sympla]
+### MEETECH #16 - Laravel [Sympla]
+### MEETECH #17 - Laravel [Sympla]
+### MEETECH #18 - Laravel [Sympla]
+### MEETECH #19 - Laravel [Sympla]
+### MEETECH #20 - Como ingressar na Carreira Java [Sympla](https://www.sympla.com.br/meetech-19---perspectivas-de-carreira-java__1012450) - [Vídeo](https://www.youtube.com/watch?v=qLrVahPJ-A8)
+### MEETECH #20 - Iniciando com Vue e Nuxt [Vídeo](https://www.youtube.com/watch?v=TBdsX9nltik)
+### MEETECH #20 - Docker na AWS com ECS [Sympla](https://www.sympla.com.br/meetech-21---docker-na-aws-com-ecs__1061315) - [Vídeo](https://www.youtube.com/watch?v=GpxoHxqvelA&t=8s)
 ### Organização e Apresentação XI Semana Acadêmixa IFRS
 ### Organização, Comunidade e Apresentação do FOSSDay RS 2020
 
