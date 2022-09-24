@@ -13,12 +13,12 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 
 ## 2020
 
-### MEETECH #1 - Wordpress + React na Prática (Eduardo Pittol) // PHPStorm como Ambiente de Desenvolvimento (Fernando) [Sympla](https://www.sympla.com.br/meetech-01---encontros-de-tecnologia__760795) [Foto](https://media-exp1.licdn.com/dms/image/C4E1BAQG0xGu2fkK4_Q/company-background_10000/0/1597269641865?e=1664658000&v=beta&t=Tipn89szAwmu1O6okwEPFZH38noSwSI42Ac50oBXa1U)
-### MEETECH #2 - Linguagem Flutter (Wilson Blanco) // Matando as Hydras da Programação (Perceu Bertolletti)
-### MEETECH #3 - Introdução a Web e como Iniciar na Carreira DEV (F.code)
-### MEETECH #4 - Linguagem Rust () // Metodologias Ágeis
-### MEETECH #5 - Docker
-### MEETECH #6 - Laravel
+### MEETECH #1 - Wordpress + React na Prática (Eduardo Pittol) // PHPStorm como Ambiente de Desenvolvimento (Fernando) [Sympla](https://www.sympla.com.br/meetech-01---encontros-de-tecnologia__760795) - [Foto](https://media-exp1.licdn.com/dms/image/C4E1BAQG0xGu2fkK4_Q/company-background_10000/0/1597269641865?e=1664658000&v=beta&t=Tipn89szAwmu1O6okwEPFZH38noSwSI42Ac50oBXa1U)
+### MEETECH #2 - Linguagem Flutter (Wilson Blanco) // Matando as Hydras da Programação (Perceu Bertolletti) [Sympla]
+### MEETECH #3 - Introdução a Web e como Iniciar na Carreira DEV (F.code) [Sympla]
+### MEETECH #4 - Linguagem Rust () // Metodologias Ágeis [Sympla]
+### MEETECH #5 - Docker [Sympla]
+### MEETECH #6 - Laravel [Sympla]
 ### Organização e Apresentação XI Semana Acadêmixa IFRS
 ### Organização, Comunidade e Apresentação do FOSSDay RS 2020
 
