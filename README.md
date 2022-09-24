@@ -30,7 +30,7 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 - Laravel, uma introdução prática! [Vídeo](https://www.youtube.com/watch?v=X6kDEsNh7Qg)
 - Blockchain e Contratos Inteligentes [Vídeo](https://www.youtube.com/watch?v=IPRylLBFATw)
 - ReasonML e ReScript: O ECMAScript de 2077! [Vídeo](https://www.youtube.com/watch?v=Hoed0aZGbJY)
-- Libsodium: Criptografia moderna no PHP [Sympla](https://www.youtube.com/watch?v=Vd2lQNOzBr4)
+- Libsodium: Criptografia moderna no PHP [Video](https://www.youtube.com/watch?v=Vd2lQNOzBr4)
 - PHP com Docker: Criando um ambiente de desenvolvimento [Vídeo](https://www.youtube.com/watch?v=1cXIGVymlKA)
 - Como ingressar na Carreira Java [Vídeo](https://www.youtube.com/watch?v=qLrVahPJ-A8)
 - Iniciando com Vue e Nuxt [Vídeo](https://www.youtube.com/watch?v=TBdsX9nltik)
