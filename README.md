@@ -57,4 +57,6 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 
 ### Organização da 2ª Gambiconf Lisboa + Online
 
+### Participação no LibertyTech
+
 ### Palestra sobre WebGPU na XIII Jornada Acadêmica do IFRS
