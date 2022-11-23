@@ -56,3 +56,5 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 - Porque o Java é lento? - Eduardo Rafael [Vídeo](https://www.youtube.com/watch?v=vSZcSf75DCc)
 
 ### Organização da 2ª Gambiconf Lisboa + Online
+
+### Palestra sobre WebGPU na XIII Jornada Acadêmica do IFRS
