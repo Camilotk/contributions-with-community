@@ -9,7 +9,7 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 
 ### Organização Mind7 Startups
 ### LogiTech Day IFRS - Informática + Logística
-### MEETUP sobre React -
+### MEETUP sobre React
 
 ## 2020
 
