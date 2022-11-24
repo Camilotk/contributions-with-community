@@ -38,6 +38,7 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 
 ### Organização e Apresentação XI Semana Acadêmixa IFRS
 ### Organização, Comunidade e Apresentação do FOSSDay RS 2020
+### Organização do SW Brasil Woman
 
 ### MEENTORIA 1ª Turma
 
@@ -45,7 +46,7 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 
 ### MEENTORIA 2ª Turma
 ### Organização da 1ª Gambiconf Online
-### Organização do SW Brasil Woman
+### Mentorei no SW Ijui
 
 ## 2022
 
