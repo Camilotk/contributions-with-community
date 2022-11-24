@@ -45,6 +45,7 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 
 ### MEENTORIA 2ª Turma
 ### Organização da 1ª Gambiconf Online
+### Organização do SW Brasil Woman
 
 ## 2022
 
@@ -58,5 +59,9 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 ### Organização da 2ª Gambiconf Lisboa + Online
 
 ### Participação no LibertyTech
+
+### Mentorei no Hackaton de Cidades Sustentáveis do Conselho Federal de Administração
+
+### Mentorei no SW Games Brasil
 
 ### Palestra sobre WebGPU na XIII Jornada Acadêmica do IFRS
