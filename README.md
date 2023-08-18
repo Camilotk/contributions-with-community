@@ -70,6 +70,6 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 
 ## 2023
 
-## Mentorei SW Caxias do Sul
-## Python Brasil 2023
-## 3ª GambiConf SP 
+### Mentorei SW Caxias do Sul
+### Python Brasil 2023
+### 3ª GambiConf SP 
