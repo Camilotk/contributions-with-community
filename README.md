@@ -66,3 +66,10 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 ### Mentorei no SW Games Brasil
 
 ### Palestra sobre WebGPU na XIII Jornada Acadêmica do IFRS
+
+
+## 2023
+
+## Mentorei SW Caxias do Sul
+## Python Brasil 2023
+## 3ª GambiConf SP 
