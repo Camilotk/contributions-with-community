@@ -73,3 +73,4 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 ### Mentorei SW Caxias do Sul
 ### Organização da Python Brasil 2023
 ### 3ª GambiConf SP 
+### Learn4Elixir
