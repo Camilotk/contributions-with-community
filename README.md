@@ -125,6 +125,21 @@ Organization and coordination of a **21-edition technology meetup series**. · `
   * *Ferramentas que todo programador Java deveria conhecer!*
   * *Bibliotecas Java que devemos conhecer para um código moderno*
   * [Posts archive](https://github.com/Camilotk/posts-daads)
+  
+### XI Jornada Acadêmica IFRS — 2020
+
+Organization and presentation of the online academic technology event, held September 8–11, 2020. · `event` `organization` `community` `open-education`
+
+* **Empreender projetos sem firulas** — Jordy Amoêdo & Mariéli Londero, Urgeo
+* **Programação Assíncrona em JavaScript — do básico ao avançado** — Marcel dos Santos, Loop
+* **Session with Charlotte Lorelei** — Software Engineer at Tinker
+* **Controle de versões com Git** — Giovanni Pires, Meetanços
+* **Como a gamificação pode mudar o jogo?** — Kevin Talarico, IBM
+* **A, B, C. 1, 2, 3. Iterables you and me.** — Willian Martins, Netflix
+* **BrazilJS special session** — BrazilJS
+
+[Event website](https://camilotk.github.io/site-semana-academica-2020/)
+
 
 ## 2021
 
