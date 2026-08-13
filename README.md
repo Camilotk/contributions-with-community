@@ -148,6 +148,7 @@ Organization and presentation of the online academic technology event, held Sept
 * **MEENTORIA — 2ª Turma** — Mentoring · `mentoring` `community`
 * **Startup Weekend Ijuí** — Mentor · `event` `mentoring` `community`
 * **ocaml4noobs** — Author of Portuguese OCaml tutorial · `tutorial` `open-education` `open-source` · [GitHub](https://github.com/Camilotk/ocaml4noobs)
+* **Revery — Fedora Build Support** — Diagnosed and resolved a Fedora-specific build failure in the Revery native UI framework, identifying missing system dependencies and contributing the upstream fix that restored a working development setup on Fedora · `bug-fix` `upstream` `open-source` `fedora` `ocaml` `reasonml`
 * **Openflix** — Open-source video CMS / streaming / OTT project · `open-source` `tool`
 
   * [API](https://github.com/Camilotk/openflix-api)
