@@ -167,6 +167,9 @@ Organization and presentation of the online academic technology event, held Sept
   * *Features modernas do Java que fazem toda diferença no código*
   * *Programação Mobile: Java e Objective-C, as linguagens nativas*
   * [Posts archive](https://github.com/Camilotk/posts-daads)
+* **Fedora Developer Portal — OCaml Installation & OPAM** — Authored the Fedora project's official documentation for installing OCaml and configuring OPAM on Fedora · `documentation` `tutorial` `open-source` `fedora` `ocaml`
+  * Added to the Fedora Developer Portal on June 22, 2021
+  * [Documentation](https://developer.fedoraproject.org/tech/languages/ocaml/ocaml-installation.html) · [Source history](https://github.com/developer-portal/content/commits/master/tech/languages/ocaml/ocaml-installation.md)
 
 ## 2022
 
@@ -189,6 +192,9 @@ Organization and presentation. · `event` `organization` `community`
 * **Startup Weekend Games Brasil** — Mentor · `event` `mentoring` `community`
 * **WebGPU** — XIII Jornada Acadêmica do IFRS · `talk` `event`
 * **Open Source Society University — OSSU** — Active organization member and contributor, including the Brazilian Computer Science and Mathematics curriculum initiatives · `community` `open-education` `open-source` `maintainer` · [GitHub](https://github.com/ossu)
+- **Fedora Developer Portal — Dune** — Contributed the official Fedora documentation for installing and using Dune with OCaml, covering project initialization, building, execution, and library dependencies · `documentation` `tutorial` `open-source` `fedora` `ocaml`
+  - Dune documentation added on February 21, 2023
+  - [Documentation](https://developer.fedoraproject.org/tech/languages/ocaml/dune.html) · [Source history](https://github.com/developer-portal/content/commits/master/tech/languages/ocaml/dune.md)
 
 ## 2023
 
