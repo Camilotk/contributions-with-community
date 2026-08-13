@@ -205,6 +205,7 @@ Organization and presentation. · `event` `organization` `community`
 * **Learn4Elixir** — Open-source Elixir and functional-programming learning project · `tutorial` `open-education` `open-source` `community` · [GitHub](https://github.com/Universidade-Livre/Learn4Elixir)
 * **Hy, Python como LISP** — PyCaxias 2023 · `talk` `event` · [Code & examples](https://github.com/Camilotk/palestra-hylang)
 * **Elixir em Foco #23 — Clojure** — Podcast participation · `podcast` `community`
+* **Clojure Core — Date Handling Bug** — Discovered a date-handling defect while working on a production task at Buzzlabs, helped isolate and communicate the issue to the Clojure community, and contributed to its escalation into an official Clojure language bug tracked by Alex Miller and subsequently fixed upstream · `bug-report` `upstream` `open-source` `clojure` `core-language`
 
 ## 2024
 
