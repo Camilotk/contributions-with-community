@@ -76,6 +76,7 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 ### 3ª GambiConf SP 
 ### Learn4Elixir
 ### Talk "Hy, Python como LISP" PyCaxias 2023
+### Participação no Elixir em Foco Podcast
 
 ## 2024
 
