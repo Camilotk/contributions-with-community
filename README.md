@@ -153,6 +153,15 @@ Organization and presentation of the online academic technology event, held Sept
   * [API](https://github.com/Camilotk/openflix-api)
   * [Web](https://github.com/Camilotk/openflix-web)
 * **Julia Docker Template** — Reusable Julia + Docker project template for my College Mentorhip for other students in Linear Algebra · `template` `open-source` · [GitHub](https://github.com/Camilotk/julia_docker)
+* **PilhaCheia #03 — O Caminho do Dev PilhaCheia: Lógica de Programação** — Podcast participation discussing programming logic, logical reasoning, mathematics, and approaches to learning programming · `podcast` `community` `open-education`
+  - With Camilo Cunha, Letícia Pimenta, Marcus Tavares, and the PilhaCheia panel
+  - Published July 2, 2021 · 1h28m
+  - [Spotify](https://open.spotify.com/episode/3Ihi1YgZjoM5VNDmD2ZH7A)
+
+* **PilhaCheia #06 — A beleza dos paradigmas de programação** — Podcast participation discussing programming paradigms, imperative vs. functional approaches, learning new paradigms, and the limits of the conventional idea of "programming logic" · `podcast` `community` `open-education`
+  - With Lincoli Xavier, Gustavo Fontes, Pedro Castilho, Camilo Cunha, and Paulo Torrens
+  - Published August 23, 2021 · 1h18m
+  - [Spotify](https://open.spotify.com/episode/16WoN3cpj8Ahqh4XBgz5tx)
 * **DAADS IFRS Blog** — Continued technical writing for the academic community · `article` `community` `open-education`
 
   * *Features modernas do Java que fazem toda diferença no código*
