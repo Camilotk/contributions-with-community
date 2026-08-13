@@ -7,15 +7,14 @@ Contributions to technology communities through event organization, mentoring, t
 * **Django Girls Bento Gonçalves** — Organization, social media, and mentoring · `event` `organization` `mentoring` `community` · [Photos](https://www.flickr.com/photos/djangogirls/sets/72157694821163112?fbclid=IwAR24uzmx7KlCKITbpJDQMGSFi_A4LkrdW8uFSKh5wYQNK0e7-FimAEcjIyg)
 * **GDG Serra Gaúcha Meetup** — Organization · `event` `meetup` `organization` `community` · [Photo](https://scontent-gru2-1.xx.fbcdn.net/v/t1.6435-9/35265099_2096111607069610_260778534333579264_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=y6_EQQRccz4AX8IVlKf&_nc_ht=scontent-gru2-1.xx&oh=00_AT8zTUjeHGqgb2iMFPSCseFwlTwiNRJokbVmb1fp-NprBw&oe=635373D3)
 * **1º Startup Weekend Bento Gonçalves** — Organization · `event` `organization` `community` · [Photo](https://scontent-gru2-1.xx.fbcdn.net/v/t1.6435-9/50237716_332539007352830_2221921577337880576_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=8mn5Kd8b304AX_SoYwW&tn=2cB53yOnHT2SaFrJ&_nc_ht=scontent-gru2-1.xx&oh=00_AT_JtbTzf2MKfyfcZ9IfFALnSNVmB7EYxnhhfrHbm6FL7w&oe=6355EBD1)
-* **IFRS JavaScript Study Group** — Shared repository for group studies in JavaScript · `community` `open-education` `tutorial` · [GitHub](https://github.com/Camilotk/IFRS_JS)
+* **IFRS JavaScript Study Group** — Leadership in group studies in JavaScript at College · `community` `open-education` `tutorial` 
 
 ## 2019
 
 * **Mind7 Startup** — Organization · `event` `organization` `community` · [Sympla](https://www.sympla.com.br/evento/mind7-startup/)
-* **LogiTech Day IFRS** — Informática + Logística · `event` `community` · [Sympla](https://www.sympla.com.br/evento/logitech-day/709443)
+* **LogiTech Day IFRS** — Organization of event at College in partnership with Logistics Course · `event` `community` · [Sympla](https://www.sympla.com.br/evento/logitech-day/709443)
 * **React Meetup** — Organization · `event` `meetup` `organization` `community`
 * **DAADS IFRS** — Website for the IFRS Analysis and Systems Development Academic Directory · `community` `open-source` · [Source](https://github.com/Camilotk/site-daads)
-* **Django MOOC** — Bilingual Django learning material · `tutorial` `open-education` `open-source` · [GitHub](https://github.com/Camilotk/django_mooc)
 
 ## 2020
 
@@ -133,14 +132,12 @@ Organization and coordination of a **21-edition technology meetup series**. · `
 * **1ª GambiConf Online** — Co-founder and organization · `event` `organization` `community`
 * **MEENTORIA — 2ª Turma** — Mentoring · `mentoring` `community`
 * **Startup Weekend Ijuí** — Mentor · `event` `mentoring` `community`
-* **ocaml4noobs** — Collaborative Portuguese OCaml tutorial · `tutorial` `open-education` `open-source` · [GitHub](https://github.com/Camilotk/ocaml4noobs)
-* **Algoritmos com Python** — Introductory learning material covering algorithms with Python · `tutorial` `open-education` `open-source` · [GitHub](https://github.com/Camilotk/algoritmos-python)
-* **Exercícios de Algoritmos da UBL** — Open collection of algorithm exercises · `open-education` `community` `open-source` · [GitHub](https://github.com/Camilotk/exercicios-algoritmos)
+* **ocaml4noobs** — Author of Portuguese OCaml tutorial · `tutorial` `open-education` `open-source` · [GitHub](https://github.com/Camilotk/ocaml4noobs)
 * **Openflix** — Open-source video CMS / streaming / OTT project · `open-source` `tool`
 
   * [API](https://github.com/Camilotk/openflix-api)
   * [Web](https://github.com/Camilotk/openflix-web)
-* **Julia Docker Template** — Reusable Julia + Docker project template · `template` `open-source` · [GitHub](https://github.com/Camilotk/julia_docker)
+* **Julia Docker Template** — Reusable Julia + Docker project template for my College Mentorhip for other students in Linear Algebra · `template` `open-source` · [GitHub](https://github.com/Camilotk/julia_docker)
 * **DAADS IFRS Blog** — Continued technical writing for the academic community · `article` `community` `open-education`
 
   * *Features modernas do Java que fazem toda diferença no código*
@@ -162,7 +159,7 @@ Organization and presentation. · `event` `organization` `community`
 ### Community
 
 * **2ª GambiConf — Lisboa + Online** — Organization · `event` `organization` `community`
-* **LibertyTech** — Participation · `event` `community`
+* **LibertyTech** — Participation · `podcast` `community`
 * **Fazendo o Python Cantar** — PyCaxias 2022 · `talk` `event`
 * **Hackathon de Cidades Sustentáveis** — Mentor · Conselho Federal de Administração · `event` `mentoring`
 * **Startup Weekend Games Brasil** — Mentor · `event` `mentoring` `community`
@@ -182,6 +179,7 @@ Organization and presentation. · `event` `organization` `community`
 
 * **4ª GambiConf — São Paulo** — Organization · `event` `organization` `community`
 * **Free and Open Software** — Keynote at PyCaxias 2024 · `talk` `event` `open-source`
+* **C Study Group** - Leadership in the study group of C language at Universidade Livre Brasileira (UBL) · `community` `open-education` `tutorial` 
 * **C + Raylib Project Template** — Reusable C + Raylib starter project · `template` `open-source` · [GitHub](https://github.com/Camilotk/projeto-raylib)
 
 ## 2025
