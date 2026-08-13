@@ -61,6 +61,8 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 
 ### Participação no LibertyTech
 
+### Talk "Fazendo o Python Cantar" na PyCaxias 2022
+
 ### Mentorei no Hackaton de Cidades Sustentáveis do Conselho Federal de Administração
 
 ### Mentorei no SW Games Brasil
@@ -73,10 +75,12 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 ### Organização da Python Brasil 2023
 ### 3ª GambiConf SP 
 ### Learn4Elixir
+### Talk "Hy, Python como LISP" PyCaxias 2023
 
 ## 2024
 
 ### 4ª GambiConf SP
+### Keynote "Free and Open Software" PyCaxias 2024
 
 ## 2025
 
