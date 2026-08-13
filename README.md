@@ -35,7 +35,7 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 - Como ingressar na Carreira Java [Vídeo](https://www.youtube.com/watch?v=qLrVahPJ-A8)
 - Iniciando com Vue e Nuxt [Vídeo](https://www.youtube.com/watch?v=TBdsX9nltik)
 - Docker na AWS com ECS [Vídeo](https://www.youtube.com/watch?v=GpxoHxqvelA&t=8s)
-
+### [laravel-payu package](https://github.com/somosgad/laravel-payu)
 ### Organização e Apresentação XI Semana Acadêmixa IFRS
 ### Organização, Comunidade e Apresentação do FOSSDay RS 2020
 ### Organização do SW Brasil Woman
