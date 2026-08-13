@@ -225,5 +225,5 @@ Organization and presentation. · `event` `organization` `community`
 
 * **6ª GambiConf — São Paulo** — Organization · `event` `organization` `community`
 * **R Markdown Template for SBC Articles** — Reproducible template for SBC-style academic papers · `template` `research` `open-source` · [GitHub](https://github.com/Camilotk/rmarkdown-template-for-sbc-articles)
-* **OpenSSF Scorecard on Hex.pm — Replication Package** — Reproducibility artifacts and analysis of Hex.pm package security · `research` `open-source` `tool` · [GitHub](https://github.com/Camilotk/openssf-hex)
+<!-- * **OpenSSF Scorecard on Hex.pm — Replication Package** — Reproducibility artifacts and analysis of Hex.pm package security · `research` `open-source` `tool` · [GitHub](https://github.com/Camilotk/openssf-hex) -->
 * **Brazilian Utils — Erlang** — Author and maintainer of the Erlang implementation of Brazilian Utils, providing validation, formatting, generation, and manipulation of Brazilian-specific data · `library` `open-source` `maintainer` `erlang` · [GitHub](https://github.com/brazilian-utils/erlang)
