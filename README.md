@@ -167,6 +167,7 @@ Organization and presentation. · `event` `organization` `community`
 * **Hackathon de Cidades Sustentáveis** — Mentor · Conselho Federal de Administração · `event` `mentoring`
 * **Startup Weekend Games Brasil** — Mentor · `event` `mentoring` `community`
 * **WebGPU** — XIII Jornada Acadêmica do IFRS · `talk` `event`
+* **Open Source Society University — OSSU** — Active organization member and contributor, including the Brazilian Computer Science and Mathematics curriculum initiatives · `community` `open-education` `open-source` `maintainer` · [GitHub](https://github.com/ossu)
 
 ## 2023
 
@@ -188,10 +189,11 @@ Organization and presentation. · `event` `organization` `community`
 * **5ª GambiConf — São Paulo** — Organization · `event` `organization` `community`
 * **Mindpress** — Lightweight static-site generator for educators · `tool` `open-education` `open-source` · [GitHub](https://github.com/Camilotk/mindpress)
 * **Despachante** — Erlang library for validating Brazilian documents · `library` `open-source` · [GitHub](https://github.com/Camilotk/despachante)
-
+* **Aprenda Clojure / Clojure Brasil** — Maintenance and curation of Portuguese-language Clojure resources · `community` `open-education` `open-source` · [GitHub](https://github.com/clj-br/aprenda-clojure)
+  
 ## 2026
 
 * **6ª GambiConf — São Paulo** — Organization · `event` `organization` `community`
 * **R Markdown Template for SBC Articles** — Reproducible template for SBC-style academic papers · `template` `research` `open-source` · [GitHub](https://github.com/Camilotk/rmarkdown-template-for-sbc-articles)
 * **OpenSSF Scorecard on Hex.pm — Replication Package** — Reproducibility artifacts and analysis of Hex.pm package security · `research` `open-source` `tool` · [GitHub](https://github.com/Camilotk/openssf-hex)
-* **Aprenda Clojure / Clojure Brasil** — Maintenance and curation of Portuguese-language Clojure resources · `community` `open-education` `open-source` · [GitHub](https://github.com/clj-br/aprenda-clojure)
+* **Brazilian Utils — Erlang** — Author and maintainer of the Erlang implementation of Brazilian Utils, providing validation, formatting, generation, and manipulation of Brazilian-specific data · `library` `open-source` `maintainer` `erlang` · [GitHub](https://github.com/brazilian-utils/erlang)
