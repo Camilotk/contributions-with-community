@@ -67,7 +67,6 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 
 ### Palestra sobre WebGPU na XIII Jornada Acadêmica do IFRS
 
-
 ## 2023
 
 ### Mentorei SW Caxias do Sul
@@ -77,6 +76,12 @@ Contributions with community: blogs, videos, talks, podcasts, coordinating event
 
 ## 2024
 
+### 4ª GambiConf SP
+
 ## 2025
 
+### 5ª GambiConf SP
+
 ## 2026
+
+### 6ª GambiConf SP
